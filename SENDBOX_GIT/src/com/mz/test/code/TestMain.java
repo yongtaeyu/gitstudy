@@ -6,6 +6,6 @@ public class TestMain {
 		
 		System.out.println("GIT init java PROJECT");
 		
-		// merge start!
+		//머치 완료
 	}
 }
